@@ -1,3 +1,5 @@
+/* Tag selectors */
+
 body {
     background-color: royalblue;
     padding: 0 5em;
@@ -37,18 +39,6 @@ h2, h3 {
     font-size: 1em;
 }
 
-.wrapper {
-    background-color: white;
-    margin: -1em 0 -1em 0;
-}
-
-.flex-container {
-    display: flex;
-    width: 100%;
-    max-height: 500px;
-    background-color: #FAEBD7;
-}
-
 img {
     width: 100%;
     height: auto;
@@ -78,3 +68,17 @@ footer a {
     color: goldenrod;
     margin: .2em 2em 0 1em
 }
+/* Class selectors */
+
+.wrapper {
+    background-color: white;
+    margin: -1em 0 -1em 0;
+}
+
+.flex-container {
+    display: flex;
+    width: 100%;
+    max-height: 500px;
+    background-color: #FAEBD7;
+}
+
